@@ -1,0 +1,142 @@
+{
+  "version": "2.0",
+  "last_updated": "",
+  "total_books": 12,
+  "total_words": 54353,
+  "books": [
+    {
+      "id": "cet4",
+      "name": "大学英语四级词汇 (CET-4)",
+      "level": "大学四级",
+      "total": 4543,
+      "source": "KyleBing",
+      "description": "大学英语四级考试大纲词汇"
+    },
+    {
+      "id": "cet6",
+      "name": "大学英语六级词汇 (CET-6)",
+      "level": "大学六级",
+      "total": 3991,
+      "source": "KyleBing",
+      "description": "大学英语六级考试大纲词汇"
+    },
+    {
+      "id": "gaokao-24days",
+      "name": "24天突破高考大纲词汇 3500",
+      "level": "高考",
+      "total": 2528,
+      "source": "lilinji",
+      "sources": [
+        "24天突破高考大纲词汇3500 主词.xlsx"
+      ],
+      "description": "24天突破高考大纲词汇 3500（主词）"
+    },
+    {
+      "id": "gaokao-3500",
+      "name": "高考核心 3500 词",
+      "level": "高考",
+      "total": 3866,
+      "source": "lilinji",
+      "sources": [
+        "100个句子记完3500个高考单词.xlsx"
+      ],
+      "description": "100个句子记忆高考核心 3500 词"
+    },
+    {
+      "id": "gaokao-core-20days",
+      "name": "20天背完高考核心词汇",
+      "level": "高考",
+      "total": 2411,
+      "source": "lilinji",
+      "sources": [
+        "20天背完高考核心词汇.xlsx"
+      ],
+      "description": "20天背完高考核心词汇"
+    },
+    {
+      "id": "gaokao-michael",
+      "name": "Michael老师高考词汇（词群速记）",
+      "level": "高考",
+      "total": 4378,
+      "source": "lilinji",
+      "sources": [
+        "Michael老师高考词汇（词群速记）.xlsx"
+      ],
+      "description": "Michael老师高考词群速记词汇"
+    },
+    {
+      "id": "junior",
+      "name": "初中英语词汇",
+      "level": "初中",
+      "total": 1987,
+      "source": "KyleBing",
+      "description": "初中英语词汇，覆盖中考大纲"
+    },
+    {
+      "id": "postgraduate",
+      "name": "考研英语词汇",
+      "level": "考研",
+      "total": 5047,
+      "source": "KyleBing",
+      "description": "全国硕士研究生入学考试英语词汇"
+    },
+    {
+      "id": "primary",
+      "name": "小学英语词汇（人教版同步）",
+      "level": "小学",
+      "total": 7028,
+      "source": "lilinji",
+      "sources": [
+        "100个句子记完3500个高考单词.xlsx",
+        "20天背完中考核心词汇.xlsx",
+        "20天背完高考核心词汇.xlsx",
+        "24天突破高考大纲词汇3500 主词.xlsx",
+        "Michael老师高考词汇（词群速记）.xlsx",
+        "人教版一年级起点三年级上.xlsx",
+        "人教版一年级起点三年级下.xlsx",
+        "人教版一年级起点五年级上.xlsx",
+        "人教版一年级起点五年级下.xlsx",
+        "人教版一年级起点六年级上.xlsx",
+        "人教版一年级起点六年级下.xlsx",
+        "人教版一年级起点四年级上.xlsx",
+        "人教版一年级起点四年级下.xlsx",
+        "人教版三年级起点三年级上.xlsx",
+        "人教版三年级起点三年级下.xlsx",
+        "人教版三年级起点五年级上.xlsx",
+        "人教版三年级起点五年级下.xlsx",
+        "人教版三年级起点六年级上.xlsx",
+        "人教版三年级起点六年级下.xlsx",
+        "人教版三年级起点四年级上.xlsx",
+        "人教版三年级起点四年级下.xlsx",
+        "初中英语大纲词汇.xlsx",
+        "初中词汇乱序版.xlsx",
+        "初中词汇正序版.xlsx"
+      ],
+      "description": "人教版小学英语同步词汇，合并去重后共 7028 词"
+    },
+    {
+      "id": "sat",
+      "name": "SAT 词汇",
+      "level": "SAT",
+      "total": 4464,
+      "source": "KyleBing",
+      "description": "美国高考 SAT 考试词汇"
+    },
+    {
+      "id": "senior",
+      "name": "高中英语词汇",
+      "level": "高中",
+      "total": 3743,
+      "source": "KyleBing",
+      "description": "高中英语词汇，覆盖高考大纲"
+    },
+    {
+      "id": "toefl",
+      "name": "TOEFL 托福词汇",
+      "level": "托福",
+      "total": 10367,
+      "source": "KyleBing",
+      "description": "托福考试核心词汇"
+    }
+  ]
+}
